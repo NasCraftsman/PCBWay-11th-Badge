@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+D:\NASIB\INGENIERIA\PROYECTOS\7-PCBWAY 11th BADGE\Project Outputs for Badge11\Pick Place\Pick Place for Badge11.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/04/25
+Time:       13:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Rotation","Description"
+"C101","20u","BottomLayer","GRMJN7","98.6790mm","80.8990mm","98.6790mm","80.1240mm","90","20 uF 16 VDC 20% 0704 X5R"
+"R103","51","BottomLayer","RESC1609X50X30NL8T20","108.0770mm","80.8990mm","108.0770mm","81.5490mm","270","SMD 1/8W 51 OHM 5%"
+"R102","300k","BottomLayer","RESC1609X50X30NL8T20","100.5840mm","78.7400mm","101.2340mm","78.7400mm","180","SMD 300kOhms 1/10W 0603 1%"
+"Q101","MMBT2222A-G","BottomLayer","SOT95P240X115-3N","105.6640mm","81.4070mm","104.5640mm","80.4570mm","360","BJT BJT, SOT-23, 40V, 600mA, NPN"
+"C100","20u","BottomLayer","GRMJN7","103.6320mm","78.7400mm","102.8570mm","78.7400mm","360","20 uF 16 VDC 20% 0704 X5R"
+"D100","156120AS82500","BottomLayer","WL-SMRW_1206_dome_reverse_use","111.0278mm","76.6941mm","112.7278mm","76.6941mm","180","156120AS82500 WL-SMRW SMT Mono-color Reverse mount Waterclear"
+"D101","156120AS82500","BottomLayer","WL-SMRW_1206_dome_reverse_use","111.0123mm","67.8099mm","109.8103mm","66.6078mm","45","156120AS82500 WL-SMRW SMT Mono-color Reverse mount Waterclear"
+"D102","156120AS82500","BottomLayer","WL-SMRW_1206_dome_reverse_use","105.6709mm","70.8382mm","107.3709mm","70.8382mm","180","156120AS82500 WL-SMRW SMT Mono-color Reverse mount Waterclear"
+"Q100","MMBT2222A-G","BottomLayer","SOT95P240X115-3N","101.3460mm","81.2800mm","100.2460mm","80.3300mm","360","BJT BJT, SOT-23, 40V, 600mA, NPN"
+"R100","51","BottomLayer","RESC1609X50X30NL8T20","103.6320mm","77.2160mm","102.9820mm","77.2160mm","360","SMD 1/8W 51 OHM 5%"
+"R101","300k","BottomLayer","RESC1609X50X30NL8T20","106.2990mm","78.7400mm","105.6490mm","78.7400mm","360","SMD 300kOhms 1/10W 0603 1%"
+"U100","SMTM1225","BottomLayer","SMTM1225","102.2350mm","89.5350mm","94.1850mm","89.5350mm","0","SMT HOLDER FOR CR1225"
