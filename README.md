@@ -16,3 +16,5 @@ A commemorative multilayer PCB badge celebrating PCBWay’s 11th anniversary, fe
 ## 💡 Concept
 
 This badge is a tribute to PCBWay’s role in enabling inventors to turn ideas into real, functional products. The glowing gears and traces represent the bridge between electrical engineering and mechanical creativity.
+
+<a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html" target="_blank"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
